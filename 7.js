@@ -35,7 +35,7 @@ else salary<2000
     console.log (bonus=1000+1000*10/100)
 }
 
-let a=15, b=a/2, c=a+b
+let a=38, b=a/2, c=a+b
 console.log (c)
 
 let phones= ["Iphone,", "Samsung,", "Pixel,", "Huawei,", "Xiaom,"]
